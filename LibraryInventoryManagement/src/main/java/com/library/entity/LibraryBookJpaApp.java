@@ -1,8 +1,6 @@
 package com.library.entity;
-
 import com.library.entity.Book;
 import jakarta.persistence.*;
-
 import java.util.List;
 public class LibraryBookJpaApp {
     public static void main(String[] args) {
